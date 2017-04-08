@@ -1,3 +1,5 @@
+备注一下：该项目在python3,ubuntu系统上面运行成功！在python2上面，会报错！
+
 # netease-music-spider
 
 
